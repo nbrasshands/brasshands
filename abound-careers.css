@@ -42,6 +42,13 @@ div#content {
     display: none;
 }
 
+.location {
+    color: #241C2D;
+    margin: 8px 0px;
+    font-weight: 400 !important;
+    font-family: inter;
+}
+
 @font-face {
   font-family: 'Garnett';
   src: url('https://assets.website-files.com/6041800c9ce7dbad3a32342b/6041800c9ce7db6765323465_Garnett-Semibold.woff') format('woff');
