@@ -26,6 +26,10 @@ h3 {
     text-decoration: none;
 }
 
+a {
+    color: #241C2D !important;
+}
+
 .opening a {
     font-size: 20px;
     font-weight: bold;
