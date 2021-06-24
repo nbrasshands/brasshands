@@ -75,7 +75,9 @@ div#content p {
     font-family: inter;
 }
 
-
+h1.app-title {
+    display: block !important;
+}
 
 @font-face {
   font-family: 'Garnett';
