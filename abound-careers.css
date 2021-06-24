@@ -1,4 +1,7 @@
-
+div#content ul {
+    font-size: 15px;
+    line-height: 20px;
+}
 
 h2 {
     margin-top: 0px;
@@ -70,8 +73,8 @@ div#content h4 {
 }
 
 div#content p {
-    font-size: 20px;
-    line-height: 30px;
+    font-size: 15px;
+    line-height: 20px;
     font-family: inter;
 }
 
