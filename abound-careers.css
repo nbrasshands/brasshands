@@ -1,3 +1,8 @@
+.accessible #content {
+    line-height: 150%;
+    margin-bottom: 80px;
+}
+
 div#content p strong {
     font-size: 24px;
     line-height: 40px;
